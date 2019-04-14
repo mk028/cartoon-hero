@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Wreck-It Ralph</title>
@@ -31,9 +32,9 @@
 	</div>
 	<footer>
 		<ul>
-			<li>Made by <a href="http://mrra.co" target="_blank" title="View Rich's website">Rich</a></li>
+			<li>Made by MK</li>
 			<li>Made during a <a href="http://skillshare.com" target="_blank" title="View Skillshare's website">Skillshare</a> class</li>
-			<li>&copy; 2015</li>
+			<li>&copy; 2019</li>
 		</ul>
 	</footer>
 </div>
