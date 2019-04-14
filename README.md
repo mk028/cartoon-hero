@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -25,9 +25,10 @@
 		<p class="caption">This is Ralph in action</p>
 		<h2>Ralph's friends</h2>
 		<ul>
-			<li><a href="http://roxyannne.github.io/cartoon-hero/" target="_blank" title="Visit Vanellope's page">Vanellope von Schweetz</a> from Wreck-it Ralph</li>
-			<li><a href="http://hayleysg.github.io/cartoon-hero/index.html" target="_blank" title="Visit Finn's page">Finn</a> from Adventure Time</li>
-			<li><a href="https://hbottino.github.io/cartoon-hero/" target="_blank" title="Visit Rapunzel's page">Rapunzel</a> from, well,  Rapunzel!</li>
+			<li><a href="https://adventuretime.fandom.com/wiki/Jake" target="_blank" title="visit jakes page"> jake</a>     from adventure time</li>
+	<li><a href="https://fostershomeforimaginaryfriendsandbloo.fandom.com/wiki/Bloo" target="_blank" title="visit bloo's page">bloo</a>    from foster</li>
+	<li><a href="https://en.wikipedia.org/wiki/King_Arthur%27s_Disasters" target="_blank" title="visit arturs page">  arthur</a> from king arthurs disasters </li>
+			
 		</ul>
 	</div>
 	<footer>
